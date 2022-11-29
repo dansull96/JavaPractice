@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46949cc6-ce93-42f0-af0f-f5174d0a0401" name="Changes" comment="" />
+    <list default="true" id="3c522c43-3297-4840-a0f0-6e0f4e5f1479" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2IC76EpXrEyYyhr8y0xgZyV4KXO" />
+  <component name="ProjectId" id="2ID7MA4utL7LI8OSUtee8iTbI1n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,34 +32,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorial" />
-      <module name="Part02_19.Factorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Factorial" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="46949cc6-ce93-42f0-af0f-f5174d0a0401" name="Changes" comment="" />
-      <created>1669673534356</created>
+      <changelist id="3c522c43-3297-4840-a0f0-6e0f4e5f1479" name="Changes" comment="" />
+      <created>1669704250076</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669673534356</updated>
+      <updated>1669704250076</updated>
     </task>
     <servers />
   </component>
